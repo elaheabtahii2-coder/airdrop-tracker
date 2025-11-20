@@ -1,4 +1,4 @@
-# airdrop-tracke
+# airdrop-tracker
 A simple repo to track all my crypto airdrops, tasks, and rewards."
 <!doctype html>
 <html lang="fa" dir="rtl">
